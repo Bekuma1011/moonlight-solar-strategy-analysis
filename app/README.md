@@ -8,7 +8,7 @@ A Streamlit web application that provides interactive visualizations and insight
 -  Compare countries based on solar intensity, temperature, and other environmental variables
 -  Generate plots, summary statistics
 # screenshoot
-![Alt text](../Docs/Screenshot/Screenshot 2025-05-21 154243.png)
+![Alt text]([../Docs/Screenshot/Screenshot 2025-05-21 154243.png](https://github.com/Bekuma1011/moonlight-solar-strategy-analysis/blob/dashboard-dev/Docs/Screenshot/Screenshot%202025-05-21%20154243.png))
 
 
 
