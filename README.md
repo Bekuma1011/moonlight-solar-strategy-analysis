@@ -1,23 +1,9 @@
+# moonlight-solar-strategy-analysis
 
+Overview
 
----
+This directory (scripts/) contains documentation for the moonlight-solar-strategy-analysis project, which analyzes solar energy data for Benin, Sierra Leone, and Togo. The project includes Python scripts and a Jupyter Notebook to perform exploratory data analysis (EDA), visualization, and statistical comparisons of solar metrics such as Global Horizontal Irradiance (GHI), Direct Normal Irradiance (DNI), and Diffuse Horizontal Irradiance (DHI).
 
-# MoonLight Solar Strategy Analysis – Scripts Directory
-
-## Overview
-
- **MoonLight Solar Strategy Analysis** project. The project analyzes solar energy data for **Benin**, **Sierra Leone**, and **Togo**, using Python scripts and Jupyter Notebooks to perform:
-
-* Exploratory Data Analysis (EDA)
-* Visualizations
-* Statistical comparisons of solar metrics:
-
-
----
-
-## Project Structure
-
-```
 moonlight-solar-strategy-analysis/
 ├── app/                      # Streamlit web app
 │   ├── main.py
